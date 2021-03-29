@@ -1,7 +1,7 @@
 # Ants
  Small ants simulation
 
-![](ants.png)
+![](res/ants.png)
 
 Controls :
 - Left click : put walls
